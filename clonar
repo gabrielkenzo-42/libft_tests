@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+#libft-unit-test
+git clone https://github.com/alelievr/libft-unit-test.git
+
+#libft-war-machine
+git clone https://github.com/ska42/libft-war-machine.git
+
+#libft destructor
+git clone https://github.com/t0mm4rx/libftdestructor.git
+
+#Libftest
+git clone https://github.com/jtoty/Libftest.git
